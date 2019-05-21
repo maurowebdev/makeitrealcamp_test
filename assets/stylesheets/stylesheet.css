@@ -1,0 +1,19 @@
+.special {
+    font-size: 35px;
+
+}
+
+#id1 {
+    color: rgb(250, 128, 114);
+    font-size: 35px;
+    font-weight: bold;
+}
+#id2 {
+    border: 10px dashed green;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 15px;
+}
