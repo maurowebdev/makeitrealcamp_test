@@ -17,3 +17,12 @@ table, th, td {
     border-collapse: collapse;
     padding: 15px;
 }
+
+.fondo {
+    background-image: url("../images/fondo.jpg");
+    background-color: black;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top right;
+    
+}
